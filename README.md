@@ -11,3 +11,6 @@
 - csv파일 이용하 데이터 처리
 - .groupby()
 - dt.weekday
+
+20201130
+- dt.day_name()
